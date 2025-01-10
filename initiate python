@@ -1,1 +1,2 @@
-print("Hello python") #print funtion is used to print anything that you want to print on display
+#print funtion is used to print anything that you want to print on screen
+print("Hello 'python'") 
