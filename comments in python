@@ -1,0 +1,9 @@
+print("comments in python") 
+
+#single line comment 
+print("Single line comment written using '#' ")
+
+"""multi line comment"""
+print('Multi line comment written using """comment""" ')
+
+
