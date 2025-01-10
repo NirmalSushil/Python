@@ -1,0 +1,31 @@
+# Quotes in python 
+
+# Single Quotes
+print('Hello "python" ')
+
+# Double Quotes
+print("'Python' is high-level, general-purpose programming language known for its readability and ease of use.")
+
+# Triple Quotes( triple quotes is also used to print large data such as poem, artie and song lyrics and )
+print(''' Har dafa song lyrics  ....
+
+Para 1
+Har Daffa , Har Daffa , Har Daffa…
+Mai Chahu Tujhko ,Tu Na Mujhko Dekhe Ek Daffa
+Har Daffa , Daffa , Har Daffa…
+
+Para 2
+Main  hu tera Suraj aur tu chand hai Mera
+Tu chod jayegi to fir kaise jeeunga
+Phir har dafa ye main, khud se kehta rahunga 
+Kya galti thi meri, jo mujhko mili ye saza
+Har dafa har dafa har dafa....
+
+Para 3
+Tum gum ki dawa ho aur meri ho raza 
+Pasand ho mujhe tum, Aur Tumhari har ada 
+Tere lehza pe mai mar chuka hu kaise kya pta  
+Ab sochu tumhe likhu aur kru ye labz Ada
+Har daffa dafa har daffa....
+                            -DeAngelo ''' )
+
