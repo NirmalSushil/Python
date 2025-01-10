@@ -6,7 +6,7 @@ print('Hello "python" ')
 # Double Quotes
 print("'Python' is high-level, general-purpose programming language known for its readability and ease of use.")
 
-# Triple Quotes( triple quotes is also used to print large data such as poem, artie and song lyrics and )
+# Triple Quotes( triple quotes is also used to print large data such as poem, article and song lyrics)
 print(''' Har dafa song lyrics  ....
 
 Para 1
