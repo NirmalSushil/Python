@@ -1,0 +1,14 @@
+# Check whether number is Positive, Negative or Zero
+
+number=int(input("Enter the number: ")) 
+
+if(number>0):
+    print("The given number by user is positive.")
+    
+elif(number==0):
+    print("The given number by user is zero")
+    
+else:
+    print("The given number by user is negative")
+    
+print("Program end here.")
