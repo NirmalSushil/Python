@@ -1,0 +1,12 @@
+# Find the greater number
+
+number1=int(input("Enter the number1: ")) 
+number2=int(input("Enter the number2: "))
+
+if(number1>number2):
+    print("number 1 is the greter then number 2")
+    
+else:
+    print("number 1 is the lesser then number 2")
+    
+print("program end here.")
